@@ -1,0 +1,5 @@
+.gitpy-temp/
+
+*.pyc
+*.swp
+*.log
